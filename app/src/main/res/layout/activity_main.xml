@@ -20,7 +20,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:elevation="10dp"
-        app:tabRippleColor="@color/colorAccent">
+        app:tabRippleColor="@color/colorAccent"
+        app:tabSelectedTextColor="@color/colorAccent">
 
     </com.google.android.material.tabs.TabLayout>
 
